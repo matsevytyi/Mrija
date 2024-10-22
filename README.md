@@ -1,6 +1,6 @@
-# Mrija_hackaton
+#Student Professional Orientational Tool
 
-This project, developed by Team TOVSTOLOBKN during the "AI in Mriya" hackathon, aims to provide career guidance using artificial intelligence techniques. Utilizing a simple Feedforward Neural Network (FFN), it calculates RIASEC scores based on predefined questions sourced from various research studies (refer to the Acknowledgments section for details).
+This project, developed by Team TOVSTOLOBKN during the "AI in Mriya" hackathon, aims to provide career guidance using artificial intelligence techniques. Utilizing a custom Feedforward Neural Network (FFN), it calculates RIASEC scores based on predefined questions sourced from various research studies (refer to the Acknowledgments section for details).
 
 ## Links
 
